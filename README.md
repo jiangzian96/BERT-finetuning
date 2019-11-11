@@ -1,1 +1,1 @@
-# TransferLearningWikiText103
+# BERT finetuning example
